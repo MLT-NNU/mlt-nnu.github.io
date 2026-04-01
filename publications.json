@@ -28,7 +28,8 @@
     "title": "E2MPL: An Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
     "journal": "IEEE Transactions on Image Processing (TIP), 2025, 34: 8656 - 8671.",
     "year": "2025",
-    "url": "https://ieeexplore.ieee.org/document/11313774"
+    "url": "https://ieeexplore.ieee.org/document/11313774",
+    "code_url": "https://github.com/wwei-7/E2MPL"
   },
   {
     "authors": "Kaixiang Wang, Xiaojian Ding, Wanqi Yang*, Ming Yang",
@@ -78,7 +79,8 @@
     "title": "High-level Semantic Feature Matters Few-shot Unsupervised Domain Adaptation",
     "journal": "AAAI Conference on Artificial Intelligence (AAAI), 2023, 37(9): 11025–11033",
     "year": "2023",
-    "url": "https://dl.acm.org/doi/10.1609/aaai.v37i9.26306"
+    "url": "https://dl.acm.org/doi/10.1609/aaai.v37i9.26306",
+    "code_url": "https://github.com/ylsaker/TSECS"
   },
   {
     "authors": "Wanqi Yang, Chengmei Yang, Shengqi Huang, Lei Wang, Ming Yang",
@@ -92,7 +94,8 @@
     "title": "Few-shot Unsupervised Domain Adaptation with Image-to-class Sparse Similarity Encoding",
     "journal": "ACM International Conference on Multimedia (ACMMM), 2021: 677–685",
     "year": "2021",
-    "url": "https://ieeexplore.ieee.org/document/9859804/"
+    "url": "https://ieeexplore.ieee.org/document/9859804/",
+    "code_url": "https://github.com/SQhuang28/FS-UDA_IMSE"
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Sang Hyun Park, Ming Yang, Yang Gao, Dinggang Shen",
