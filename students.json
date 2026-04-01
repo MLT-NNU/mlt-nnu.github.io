@@ -1,13 +1,5 @@
 [
   {
-    "name_zh": "辛利柯",
-    "name_en": "Like Xin",
-    "photo": "img/xinlike.png",
-    "type": "Ph.D Student",
-    "year": "2022 -"
-  },
-
-  {
     "name_zh": "张毅文",
     "name_en": "Yiwen Zhang",
     "photo": "img/zyw.jpg",
@@ -72,5 +64,21 @@
     "photo": "img/ww.png",
     "type": "M.Eng Student",
     "year": "2025 -"
+  },
+
+
+  {
+    "name_zh": "赵恩远",
+    "name_en": "Enyuan Zhao",
+    "photo": "img/zey.png",
+    "type": "M.Eng Student",
+    "year": "2026 -"
+  },
+  {
+    "name_zh": "黄珂清",
+    "name_en": "Keqing Huang",
+    "photo": "img/hkq.png",
+    "type": "M.Eng Student",
+    "year": "2026 -"
   }
 ]
