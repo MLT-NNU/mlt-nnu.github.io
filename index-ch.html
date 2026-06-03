@@ -175,6 +175,23 @@ fetch('awards.json')
   });
 </script>
 
+<script>
+fetch('Alumni.json')
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById("alumni-list");
+    const columns = [data.filter((_, index) => index % 2 === 0), data.filter((_, index) => index % 2 === 1)];
+
+    container.innerHTML = columns.map(column => `
+      <div class="col-md-6">
+        ${column.map(alumnus => `
+          <p class="m-2">${alumnus.name_en} (${alumnus.name_zh}) (${alumnus.year}.)</p>
+        `).join('')}
+      </div>
+    `).join('');
+  });
+</script>
+
 <body>
     <!-- Spinner Start -->
     <div id="spinner"
@@ -367,25 +384,8 @@ fetch('awards.json')
         <h1 class="m-1">毕业生</h1>
         <div class="row justify-content-center">
             <div class="col-lg-9 wow fadeIn" data-wow-delay="0.1s">
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <p class="m-2">Like Xin (辛利柯) (2022-2025.)</p>
-                        <p class="m-2">Haoran Wang (王浩然) (2022-2025.)</p>
-                        <p class="m-2">Yazhou Liu (刘亚洲) (2021-2024.)</p>
-                        <p class="m-2">Wenxiang Lu (陆文祥) (2021-2024.)</p>
-                        <p class="m-2">Chen Wu (吴晨) (2020-2023.)</p>
-                        <p class="m-2">Shichen Zong (踪士宸) (2019-2021.)</p>
-                        <p class="m-2">Tong Ling (凌彤) (2017-2020.)</p>
-                    </div>
-                    <div class="col-md-6">
-                        <p class="m-2">Ying Chen (陈颖) (2022-2025.)</p>
-                        <p class="m-2">Jinyu Wei (韦锦宇) (2022-2025.)</p>
-                        <p class="m-2">Yumeng Tang (唐宇萌) (2021-2024.)</p>
-                        <p class="m-2">Lei Yu (于磊) (2020-2023.)</p>
-                        <p class="m-2">Shengqi Huang (黄胜琦) (2019-2022.)</p>
-                        <p class="m-2">Kehui Chen (陈科辉) (2018-2021.)</p>
-                    </div>
+                <div class="row" id="alumni-list">
+                    <!-- JavaScript will inject alumni items here -->
                 </div>
             </div>
         </div>

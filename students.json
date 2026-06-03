@@ -80,5 +80,12 @@
     "photo": "img/hkq.png",
     "type": "M.Eng Student",
     "year": "2026 -"
+  },
+  {
+    "name_zh": "高绅策",
+    "name_en": "Shence Gao",
+    "photo": "img/gsc.jpg",
+    "type": "M.Eng Student",
+    "year": "2026 -"
   }
 ]

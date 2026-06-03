@@ -1,5 +1,25 @@
 [
-
+  {
+    "authors": "Yiwen Zhang, Wanqi Yang, Ting Yang, Like Xin, Ming Yang, Yang Gao",
+    "title": "TA-Prompt: Task-Aware Prompt Initialization for Cross-Domain Few-Shot Learning",
+    "journal": "Frontiers of Computer Science, 2026.",
+    "year": "2026",
+    "url": "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51439-8"
+  },
+  {
+    "authors": "Yuquan Xie, Shengtao Peng, Wanqi Yang*, Ming Yang, Yang Gao",
+    "title": "Domain-Generalizable Relation-Aware Knowledge Tracing for Cold-Start Education System",
+    "journal": "2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 4041-4045",
+    "year": "2026",
+    "url": "https://ieeexplore.ieee.org/document/11463741"
+  },
+  {
+    "authors": "Shengtao Peng, Yuquan Xie, Wanqi Yang*, Yiwen Zhang",
+    "title": "Knowledge-Aware Refinement for Detecting and Addressing Anomalies in Knowledge Tracing",
+    "journal": "2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 3521-3525",
+    "year": "2026",
+    "url": "https://ieeexplore.ieee.org/document/11463709"
+  },
   {
     "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
     "title": "Global-and-local guidance with synthesized view for unpaired multi-view clustering",
