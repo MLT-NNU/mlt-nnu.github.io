@@ -1,27 +1,4 @@
-[
-  {
-    "name_zh": "张毅文",
-    "name_en": "Yiwen Zhang",
-    "photo": "img/zyw.jpg",
-    "type": "M.Eng Student",
-    "year": "2023 -"
-  },
-  {
-    "name_zh": "施小龙",
-    "name_en": "Xiaolong Shi",
-    "photo": "img/sxl.jpg",
-    "type": "M.Eng Student",
-    "year": "2023 -"
-  },
-  {
-    "name_zh": "彭圣涛",
-    "name_en": "Shengtao Peng",
-    "photo": "img/pst.jpg",
-    "type": "M.Eng Student",
-    "year": "2023 -"
-  },
-
-  
+[  
   {
     "name_zh": "谢雨荃",
     "name_en": "Yuquan Xie",

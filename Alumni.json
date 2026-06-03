@@ -1,13 +1,23 @@
 [
-  {
+    {
     "name_en": "Like Xin",
     "name_zh": "辛利柯",
     "year": "2022-2025"
   },
   {
-    "name_en": "Haoran Wang",
-    "name_zh": "王浩然",
-    "year": "2022-2025"
+    "name_en": "Yiwen Zhang",
+    "name_zh": "张毅文",
+    "year": "2023-2026"
+  },
+  {
+    "name_en": "Xiaolong Shi",
+    "name_zh": "施小龙",
+    "year": "2023-2026"
+  },
+  {
+    "name_en": "Shengtao Peng",
+    "name_zh": "彭圣涛",
+    "year": "2023-2026"
   },
   {
     "name_en": "Ying Chen",
@@ -20,6 +30,11 @@
     "year": "2022-2025"
   },
   {
+    "name_en": "Haoran Wang",
+    "name_zh": "王浩然",
+    "year": "2022-2025"
+  },
+  {
     "name_en": "Yazhou Liu",
     "name_zh": "刘亚洲",
     "year": "2021-2024"
@@ -29,7 +44,7 @@
     "name_zh": "陆文祥",
     "year": "2021-2024"
   },
-  {
+    {
     "name_en": "Yumeng Tang",
     "name_zh": "唐宇萌",
     "year": "2021-2024"
@@ -39,12 +54,12 @@
     "name_zh": "吴晨",
     "year": "2020-2023"
   },
-  {
+    {
     "name_en": "Lei Yu",
     "name_zh": "于磊",
     "year": "2020-2023"
   },
-  {
+    {
     "name_en": "Shengqi Huang",
     "name_zh": "黄胜琦",
     "year": "2019-2022"
@@ -54,7 +69,7 @@
     "name_zh": "踪士宸",
     "year": "2019-2021"
   },
-  {
+    {
     "name_en": "Kehui Chen",
     "name_zh": "陈科辉",
     "year": "2018-2021"
