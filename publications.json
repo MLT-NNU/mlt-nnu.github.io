@@ -1,5 +1,26 @@
 [
   {
+    "authors": "Jianhang Ye, Wanqi Yang*, Bo Zhang, Zekun Li, Jian Zhang, Ming Yang, Yinghuan Shi",
+    "title": "SocraticChem: Physics-Grounded Socratic Inquiry for Safety-Critical Experimental Science",
+    "journal": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.",
+    "year": "2026",
+    "url": "https://github.com/YTyangting/SocraticChem"
+  },
+  {
+    "authors": "Yuquan Xie, Wanqi Yang*, Bo Zhang, Zekun Li, Lei Wang, Ming Yang, Yang Gao",
+    "title": "HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis",
+    "journal": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.",
+    "year": "2026",
+    "url": "https://doi.org/10.1145/3770855.3817769"
+  },
+  {
+    "authors": "Jie Zhang, Wei Wang, Wanqi Yang, Rui Mao, Yi Yuan, Bo Zhang, Yang Gao, Ming Yang",
+    "title": "Seamless Lecture Navigation Starts Here: The EDU-V Benchmark for Concept-Centric Video Understanding",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.",
+    "year": "2026",
+    "url": "https://doi.org/10.1109/TCSVT.2026.3721402"
+  },
+  {
     "authors": "Yiwen Zhang, Wanqi Yang, Ting Yang, Like Xin, Ming Yang, Yang Gao",
     "title": "TA-Prompt: Task-Aware Prompt Initialization for Cross-Domain Few-Shot Learning",
     "journal": "Frontiers of Computer Science, 2026.",
